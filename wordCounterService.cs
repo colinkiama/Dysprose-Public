@@ -1,4 +1,5 @@
-﻿using System;
+//This is the class responsible for calculating the words, sentences and paragraphs the user has wrote.
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
